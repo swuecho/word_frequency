@@ -1,5 +1,8 @@
 use v5.10;
 
+# this can be optimized by read line by line and
+# do the caculation at the same time
+
 # read into string;
 open my $fh, '<', 'big.txt';
 read $fh, my $buffer, -s $fh;
