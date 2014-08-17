@@ -1,0 +1,871 @@
+hwu       console                   Sat Aug 16 12:59   still logged in
+reboot    ~                         Sat Aug 16 12:57 
+shutdown  ~                         Sat Aug 16 12:30 
+hwu       console                   Fri Aug 15 17:53 - 12:30  (18:36)
+reboot    ~                         Fri Aug 15 17:52 
+shutdown  ~                         Fri Aug 15 17:14 
+hwu       console                   Fri Aug 15 08:49 - 17:14  (08:24)
+reboot    ~                         Fri Aug 15 08:48 
+shutdown  ~                         Fri Aug 15 00:23 
+hwu       console                   Thu Aug 14 18:43 - 00:23  (05:39)
+reboot    ~                         Thu Aug 14 18:42 
+shutdown  ~                         Thu Aug 14 17:24 
+hwu       console                   Thu Aug 14 08:33 - 17:24  (08:50)
+reboot    ~                         Thu Aug 14 08:32 
+shutdown  ~                         Wed Aug 13 17:13 
+hwu       ttys005                   Wed Aug 13 14:07 - 14:13  (00:06)
+hwu       ttys004                   Wed Aug 13 14:06 - 14:06  (00:00)
+hwu       ttys004                   Wed Aug 13 14:06 - 14:06  (00:00)
+hwu       console                   Wed Aug 13 08:55 - 17:13  (08:17)
+reboot    ~                         Wed Aug 13 08:54 
+shutdown  ~                         Tue Aug 12 22:53 
+hwu       console                   Tue Aug 12 19:14 - 22:53  (03:38)
+reboot    ~                         Tue Aug 12 19:13 
+shutdown  ~                         Tue Aug 12 17:16 
+hwu       console                   Tue Aug 12 08:51 - 17:16  (08:24)
+reboot    ~                         Tue Aug 12 08:50 
+shutdown  ~                         Mon Aug 11 17:30 
+hwu       console                   Mon Aug 11 08:54 - 17:30  (08:36)
+reboot    ~                         Mon Aug 11 08:52 
+shutdown  ~                         Sun Aug 10 18:29 
+hwu       ttys003                   Sun Aug 10 17:55 - 17:55  (00:00)
+hwu       console                   Sun Aug 10 17:48 - 18:29  (00:41)
+hwu       console                   Sun Aug 10 12:53 - 17:48  (04:54)
+reboot    ~                         Sun Aug 10 12:52 
+shutdown  ~                         Sun Aug 10 12:01 
+hwu       console                   Sun Aug 10 09:37 - 12:01  (02:23)
+reboot    ~                         Sun Aug 10 09:36 
+shutdown  ~                         Sun Aug 10 00:17 
+hwu       console                   Sat Aug  9 08:27 - 00:17  (15:49)
+reboot    ~                         Sat Aug  9 08:26 
+shutdown  ~                         Fri Aug  8 23:40 
+hwu       console                   Fri Aug  8 18:36 - 23:40  (05:04)
+reboot    ~                         Fri Aug  8 18:35 
+shutdown  ~                         Fri Aug  8 17:14 
+hwu       console                   Fri Aug  8 07:50 - 17:14  (09:23)
+reboot    ~                         Fri Aug  8 07:49 
+hwu       console                   Thu Aug  7 19:50 - crash  (11:59)
+reboot    ~                         Thu Aug  7 19:48 
+shutdown  ~                         Thu Aug  7 18:18 
+hwu       console                   Thu Aug  7 17:28 - 18:18  (00:49)
+reboot    ~                         Thu Aug  7 17:26 
+shutdown  ~                         Thu Aug  7 17:26 
+root      console                   Thu Aug  7 17:21 - shutdown  (00:04)
+hwu       console                   Thu Aug  7 15:34 - 17:21  (01:47)
+reboot    ~                         Thu Aug  7 15:32 
+shutdown  ~                         Thu Aug  7 15:32 
+hwu       console                   Thu Aug  7 14:42 - 15:32  (00:49)
+reboot    ~                         Thu Aug  7 14:41 
+shutdown  ~                         Thu Aug  7 14:40 
+hwu       console                   Thu Aug  7 14:04 - 14:40  (00:35)
+reboot    ~                         Thu Aug  7 14:03 
+shutdown  ~                         Thu Aug  7 14:03 
+hwu       console                   Thu Aug  7 08:55 - 14:03  (05:07)
+reboot    ~                         Thu Aug  7 08:54 
+shutdown  ~                         Wed Aug  6 23:24 
+hwu       console                   Wed Aug  6 19:54 - 23:24  (03:29)
+reboot    ~                         Wed Aug  6 19:53 
+shutdown  ~                         Wed Aug  6 17:27 
+hwu       console                   Wed Aug  6 09:27 - 17:27  (08:00)
+reboot    ~                         Wed Aug  6 09:26 
+shutdown  ~                         Wed Aug  6 09:26 
+hwu       console                   Wed Aug  6 09:25 - 09:26  (00:00)
+reboot    ~                         Wed Aug  6 09:24 
+shutdown  ~                         Wed Aug  6 09:24 
+hwu       console                   Wed Aug  6 09:21 - 09:24  (00:03)
+reboot    ~                         Wed Aug  6 09:19 
+shutdown  ~                         Wed Aug  6 09:19 
+hwu       console                   Wed Aug  6 08:53 - 09:19  (00:25)
+reboot    ~                         Wed Aug  6 08:52 
+shutdown  ~                         Tue Aug  5 22:54 
+hwu       console                   Tue Aug  5 19:32 - 22:54  (03:21)
+reboot    ~                         Tue Aug  5 19:31 
+shutdown  ~                         Tue Aug  5 17:12 
+hwu       console                   Tue Aug  5 08:05 - 17:12  (09:07)
+reboot    ~                         Tue Aug  5 08:03 
+shutdown  ~                         Mon Aug  4 22:37 
+hwu       console                   Mon Aug  4 20:02 - 22:37  (02:35)
+reboot    ~                         Mon Aug  4 20:01 
+shutdown  ~                         Mon Aug  4 17:17 
+hwu       console                   Mon Aug  4 08:46 - 17:17  (08:31)
+reboot    ~                         Mon Aug  4 08:45 
+shutdown  ~                         Sun Aug  3 19:28 
+hwu       console                   Sun Aug  3 18:28 - 19:28  (01:00)
+reboot    ~                         Sun Aug  3 18:27 
+shutdown  ~                         Sun Aug  3 18:14 
+hwu       console                   Sun Aug  3 15:18 - 18:14  (02:56)
+reboot    ~                         Sun Aug  3 15:17 
+shutdown  ~                         Sun Aug  3 15:17 
+hwu       console                   Sun Aug  3 15:12 - 15:17  (00:04)
+reboot    ~                         Sun Aug  3 15:11 
+shutdown  ~                         Sun Aug  3 15:11 
+hwu       console                   Sun Aug  3 15:09 - 15:11  (00:01)
+reboot    ~                         Sun Aug  3 15:08 
+shutdown  ~                         Sun Aug  3 15:07 
+hwu       console                   Sun Aug  3 13:10 - 15:07  (01:56)
+reboot    ~                         Sun Aug  3 13:09 
+shutdown  ~                         Sat Aug  2 17:18 
+hwu       console                   Sat Aug  2 16:10 - 17:18  (01:07)
+reboot    ~                         Sat Aug  2 16:09 
+shutdown  ~                         Sat Aug  2 15:20 
+hwu       console                   Sat Aug  2 13:32 - 15:20  (01:48)
+reboot    ~                         Sat Aug  2 13:31 
+shutdown  ~                         Sat Aug  2 13:30 
+hwu       console                   Sat Aug  2 13:29 - 13:30  (00:01)
+reboot    ~                         Sat Aug  2 13:28 
+shutdown  ~                         Sat Aug  2 13:28 
+hwu       console                   Sat Aug  2 13:25 - 13:28  (00:03)
+reboot    ~                         Sat Aug  2 13:24 
+shutdown  ~                         Sat Aug  2 12:17 
+hwu       console                   Sat Aug  2 10:10 - 12:17  (02:06)
+reboot    ~                         Sat Aug  2 10:09 
+shutdown  ~                         Sat Aug  2 09:28 
+hwu       console                   Sat Aug  2 08:25 - 09:28  (01:02)
+reboot    ~                         Sat Aug  2 08:24 
+shutdown  ~                         Fri Aug  1 23:36 
+hwu       console                   Fri Aug  1 19:07 - 23:36  (04:29)
+reboot    ~                         Fri Aug  1 19:05 
+shutdown  ~                         Fri Aug  1 19:05 
+hwu       console                   Fri Aug  1 18:24 - 19:05  (00:40)
+reboot    ~                         Fri Aug  1 18:23 
+shutdown  ~                         Fri Aug  1 17:56 
+hwu       console                   Fri Aug  1 17:54 - 17:56  (00:01)
+reboot    ~                         Fri Aug  1 17:53 
+shutdown  ~                         Fri Aug  1 17:53 
+hwu       console                   Fri Aug  1 17:51 - 17:53  (00:01)
+reboot    ~                         Fri Aug  1 17:50 
+shutdown  ~                         Fri Aug  1 17:50 
+hwu       console                   Fri Aug  1 08:17 - 17:50  (09:32)
+reboot    ~                         Fri Aug  1 08:16 
+shutdown  ~                         Thu Jul 31 17:11 
+hwu       console                   Thu Jul 31 08:52 - 17:11  (08:19)
+reboot    ~                         Thu Jul 31 08:51 
+shutdown  ~                         Wed Jul 30 22:34 
+hwu       console                   Wed Jul 30 20:10 - 22:34  (02:24)
+reboot    ~                         Wed Jul 30 20:09 
+shutdown  ~                         Wed Jul 30 17:18 
+hwu       console                   Wed Jul 30 08:35 - 17:18  (08:42)
+reboot    ~                         Wed Jul 30 08:33 
+shutdown  ~                         Tue Jul 29 22:59 
+hwu       console                   Tue Jul 29 22:48 - 22:59  (00:10)
+reboot    ~                         Tue Jul 29 22:47 
+shutdown  ~                         Tue Jul 29 21:08 
+hwu       console                   Tue Jul 29 19:02 - 21:08  (02:05)
+reboot    ~                         Tue Jul 29 19:01 
+shutdown  ~                         Tue Jul 29 17:22 
+hwu       console                   Tue Jul 29 08:49 - 17:22  (08:33)
+reboot    ~                         Tue Jul 29 08:48 
+shutdown  ~                         Tue Jul 29 08:48 
+hwu       console                   Tue Jul 29 08:37 - 08:48  (00:10)
+reboot    ~                         Tue Jul 29 08:36 
+shutdown  ~                         Mon Jul 28 22:40 
+hwu       console                   Mon Jul 28 21:08 - 22:40  (01:32)
+reboot    ~                         Mon Jul 28 21:07 
+shutdown  ~                         Mon Jul 28 20:17 
+hwu       console                   Mon Jul 28 08:48 - 20:17  (11:28)
+reboot    ~                         Mon Jul 28 08:47 
+shutdown  ~                         Sun Jul 27 12:26 
+hwu       console                   Sun Jul 27 10:45 - 12:26  (01:40)
+reboot    ~                         Sun Jul 27 10:44 
+shutdown  ~                         Sat Jul 26 15:13 
+hwu       console                   Sat Jul 26 13:49 - 15:13  (01:23)
+reboot    ~                         Sat Jul 26 13:48 
+shutdown  ~                         Sat Jul 26 11:29 
+hwu       console                   Sat Jul 26 10:04 - 11:28  (01:24)
+reboot    ~                         Sat Jul 26 10:03 
+shutdown  ~                         Sat Jul 26 09:13 
+hwu       console                   Fri Jul 25 17:25 - 09:13  (15:47)
+reboot    ~                         Fri Jul 25 17:23 
+shutdown  ~                         Fri Jul 25 17:02 
+hwu       console                   Fri Jul 25 07:48 - 17:02  (09:13)
+reboot    ~                         Fri Jul 25 07:47 
+shutdown  ~                         Thu Jul 24 23:33 
+hwu       console                   Thu Jul 24 18:45 - 23:33  (04:47)
+reboot    ~                         Thu Jul 24 18:44 
+shutdown  ~                         Thu Jul 24 17:17 
+hwu       console                   Thu Jul 24 08:36 - 17:17  (08:40)
+reboot    ~                         Thu Jul 24 08:35 
+shutdown  ~                         Wed Jul 23 22:31 
+hwu       console                   Wed Jul 23 20:06 - 22:31  (02:25)
+reboot    ~                         Wed Jul 23 20:05 
+shutdown  ~                         Wed Jul 23 17:26 
+hwu       console                   Wed Jul 23 08:33 - 17:26  (08:53)
+reboot    ~                         Wed Jul 23 08:32 
+shutdown  ~                         Tue Jul 22 23:56 
+hwu       console                   Tue Jul 22 22:29 - 23:56  (01:27)
+reboot    ~                         Tue Jul 22 22:28 
+shutdown  ~                         Tue Jul 22 17:33 
+hwu       console                   Tue Jul 22 08:49 - 17:33  (08:44)
+reboot    ~                         Tue Jul 22 08:47 
+shutdown  ~                         Tue Jul 22 00:22 
+hwu       console                   Mon Jul 21 19:51 - 00:22  (04:30)
+reboot    ~                         Mon Jul 21 19:50 
+shutdown  ~                         Mon Jul 21 17:24 
+hwu       console                   Mon Jul 21 08:48 - 17:24  (08:35)
+reboot    ~                         Mon Jul 21 08:47 
+shutdown  ~                         Sun Jul 20 15:34 
+hwu       console                   Sun Jul 20 15:30 - 15:34  (00:04)
+reboot    ~                         Sun Jul 20 15:29 
+shutdown  ~                         Sun Jul 20 15:22 
+hwu       console                   Sun Jul 20 10:47 - 15:22  (04:35)
+reboot    ~                         Sun Jul 20 10:46 
+shutdown  ~                         Sat Jul 19 16:55 
+hwu       console                   Sat Jul 19 13:20 - 16:55  (03:35)
+reboot    ~                         Sat Jul 19 13:19 
+shutdown  ~                         Sat Jul 19 12:06 
+hwu       console                   Sat Jul 19 10:17 - 12:06  (01:48)
+reboot    ~                         Sat Jul 19 10:17 
+shutdown  ~                         Sat Jul 19 08:50 
+hwu       console                   Fri Jul 18 18:12 - 08:50  (14:38)
+reboot    ~                         Fri Jul 18 18:11 
+shutdown  ~                         Fri Jul 18 17:25 
+hwu       console                   Fri Jul 18 08:54 - 17:25  (08:31)
+reboot    ~                         Fri Jul 18 08:53 
+shutdown  ~                         Thu Jul 17 22:45 
+hwu       console                   Thu Jul 17 20:03 - 22:45  (02:42)
+reboot    ~                         Thu Jul 17 20:01 
+shutdown  ~                         Thu Jul 17 17:20 
+hwu       console                   Thu Jul 17 11:01 - 17:20  (06:19)
+reboot    ~                         Thu Jul 17 11:00 
+shutdown  ~                         Thu Jul 17 11:00 
+hwu       console                   Thu Jul 17 08:57 - 11:00  (02:03)
+reboot    ~                         Thu Jul 17 08:56 
+shutdown  ~                         Wed Jul 16 22:56 
+hwu       console                   Wed Jul 16 17:57 - 22:56  (04:58)
+reboot    ~                         Wed Jul 16 17:56 
+shutdown  ~                         Wed Jul 16 17:36 
+hwu       console                   Wed Jul 16 08:29 - 17:36  (09:06)
+reboot    ~                         Wed Jul 16 08:28 
+shutdown  ~                         Tue Jul 15 22:29 
+hwu       console                   Tue Jul 15 18:11 - 22:29  (04:17)
+reboot    ~                         Tue Jul 15 18:10 
+shutdown  ~                         Tue Jul 15 17:15 
+hwu       console                   Tue Jul 15 08:43 - 17:15  (08:31)
+reboot    ~                         Tue Jul 15 08:42 
+shutdown  ~                         Mon Jul 14 18:09 
+hwu       console                   Mon Jul 14 08:41 - 18:09  (09:27)
+reboot    ~                         Mon Jul 14 08:40 
+shutdown  ~                         Sun Jul 13 13:09 
+hwu       console                   Sun Jul 13 09:58 - 13:09  (03:11)
+reboot    ~                         Sun Jul 13 09:57 
+shutdown  ~                         Sun Jul 13 00:09 
+hwu       console                   Sat Jul 12 21:48 - 00:09  (02:21)
+reboot    ~                         Sat Jul 12 21:47 
+shutdown  ~                         Sat Jul 12 20:30 
+hwu       console                   Sat Jul 12 20:16 - 20:30  (00:14)
+reboot    ~                         Sat Jul 12 20:15 
+shutdown  ~                         Sat Jul 12 19:37 
+hwu       console                   Sat Jul 12 17:00 - 19:37  (02:37)
+reboot    ~                         Sat Jul 12 16:59 
+shutdown  ~                         Sat Jul 12 15:28 
+hwu       console                   Sat Jul 12 14:48 - 15:28  (00:39)
+reboot    ~                         Sat Jul 12 14:47 
+shutdown  ~                         Sat Jul 12 14:47 
+hwu       console                   Sat Jul 12 14:23 - 14:47  (00:24)
+reboot    ~                         Sat Jul 12 14:22 
+shutdown  ~                         Sat Jul 12 14:22 
+hwu       console                   Sat Jul 12 13:49 - 14:22  (00:32)
+reboot    ~                         Sat Jul 12 13:48 
+shutdown  ~                         Sat Jul 12 12:54 
+hwu       console                   Sat Jul 12 10:24 - 12:54  (02:30)
+reboot    ~                         Sat Jul 12 10:23 
+shutdown  ~                         Sat Jul 12 09:53 
+hwu       ttys001                   Sat Jul 12 09:03 - 09:03  (00:00)
+hwu       ttys001                   Sat Jul 12 09:03 - 09:03  (00:00)
+hwu       ttys000                   Sat Jul 12 08:56 - 08:58  (00:02)
+hwu       console                   Sat Jul 12 08:51 - 09:53  (01:01)
+reboot    ~                         Sat Jul 12 08:50 
+shutdown  ~                         Sat Jul 12 00:52 
+hwu       console                   Sat Jul 12 00:04 - 00:52  (00:47)
+reboot    ~                         Sat Jul 12 00:02 
+shutdown  ~                         Fri Jul 11 21:08 
+hwu       console                   Fri Jul 11 18:39 - 21:08  (02:29)
+reboot    ~                         Fri Jul 11 18:37 
+shutdown  ~                         Fri Jul 11 17:03 
+hwu       console                   Fri Jul 11 08:27 - 17:03  (08:36)
+reboot    ~                         Fri Jul 11 08:26 
+shutdown  ~                         Thu Jul 10 21:17 
+hwu       console                   Thu Jul 10 17:46 - 21:17  (03:31)
+reboot    ~                         Thu Jul 10 17:45 
+shutdown  ~                         Thu Jul 10 17:20 
+hwu       console                   Thu Jul 10 08:48 - 17:20  (08:32)
+reboot    ~                         Thu Jul 10 08:47 
+shutdown  ~                         Wed Jul  9 21:57 
+hwu       console                   Wed Jul  9 18:34 - 21:57  (03:22)
+reboot    ~                         Wed Jul  9 18:33 
+shutdown  ~                         Wed Jul  9 17:15 
+hwu       console                   Wed Jul  9 08:44 - 17:15  (08:30)
+reboot    ~                         Wed Jul  9 08:43 
+shutdown  ~                         Wed Jul  9 00:29 
+hwu       console                   Tue Jul  8 19:10 - 00:29  (05:18)
+reboot    ~                         Tue Jul  8 19:09 
+shutdown  ~                         Tue Jul  8 18:47 
+hwu       console                   Tue Jul  8 08:49 - 18:47  (09:58)
+reboot    ~                         Tue Jul  8 08:48 
+shutdown  ~                         Mon Jul  7 20:55 
+hwu       console                   Mon Jul  7 20:01 - 20:55  (00:53)
+reboot    ~                         Mon Jul  7 20:01 
+shutdown  ~                         Mon Jul  7 17:54 
+hwu       console                   Mon Jul  7 17:50 - 17:54  (00:04)
+reboot    ~                         Mon Jul  7 17:49 
+shutdown  ~                         Mon Jul  7 17:48 
+hwu       console                   Mon Jul  7 17:45 - 17:48  (00:03)
+reboot    ~                         Mon Jul  7 17:43 
+shutdown  ~                         Mon Jul  7 17:43 
+hwu       console                   Mon Jul  7 07:41 - 17:43  (10:02)
+reboot    ~                         Mon Jul  7 07:40 
+shutdown  ~                         Sun Jul  6 21:33 
+hwu       console                   Sun Jul  6 11:05 - 21:33  (10:28)
+reboot    ~                         Sun Jul  6 11:03 
+shutdown  ~                         Sun Jul  6 10:24 
+hwu       console                   Sat Jul  5 20:44 - 10:24  (13:40)
+reboot    ~                         Sat Jul  5 20:43 
+shutdown  ~                         Sat Jul  5 18:50 
+hwu       console                   Sat Jul  5 18:32 - 18:50  (00:17)
+reboot    ~                         Sat Jul  5 18:31 
+shutdown  ~                         Sat Jul  5 18:31 
+hwu       console                   Sat Jul  5 17:13 - 18:31  (01:18)
+reboot    ~                         Sat Jul  5 17:12 
+shutdown  ~                         Sat Jul  5 17:11 
+hwu       console                   Sat Jul  5 17:05 - 17:11  (00:06)
+reboot    ~                         Sat Jul  5 17:04 
+shutdown  ~                         Sat Jul  5 17:03 
+hwu       console                   Sat Jul  5 13:50 - 17:03  (03:13)
+reboot    ~                         Sat Jul  5 13:48 
+shutdown  ~                         Sat Jul  5 13:01 
+hwu       console                   Sat Jul  5 10:14 - 13:01  (02:46)
+reboot    ~                         Sat Jul  5 10:13 
+shutdown  ~                         Sat Jul  5 09:40 
+hwu       console                   Fri Jul  4 20:33 - 09:40  (13:06)
+reboot    ~                         Fri Jul  4 20:32 
+shutdown  ~                         Fri Jul  4 19:44 
+hwu       console                   Fri Jul  4 13:42 - 19:44  (06:01)
+reboot    ~                         Fri Jul  4 13:41 
+shutdown  ~                         Fri Jul  4 13:02 
+hwu       console                   Thu Jul  3 19:21 - 13:02  (17:41)
+reboot    ~                         Thu Jul  3 19:19 
+shutdown  ~                         Thu Jul  3 18:00 
+hwu       console                   Thu Jul  3 17:50 - 18:00  (00:10)
+reboot    ~                         Thu Jul  3 17:49 
+shutdown  ~                         Thu Jul  3 17:49 
+hwu       console                   Thu Jul  3 17:42 - 17:49  (00:06)
+reboot    ~                         Thu Jul  3 17:41 
+shutdown  ~                         Thu Jul  3 17:41 
+hwu       console                   Thu Jul  3 08:51 - 17:41  (08:50)
+reboot    ~                         Thu Jul  3 08:50 
+shutdown  ~                         Wed Jul  2 17:38 
+hwu       console                   Wed Jul  2 08:49 - 17:38  (08:49)
+reboot    ~                         Wed Jul  2 08:48 
+shutdown  ~                         Tue Jul  1 17:50 
+hwu       console                   Tue Jul  1 08:50 - 17:50  (08:59)
+reboot    ~                         Tue Jul  1 08:49 
+shutdown  ~                         Mon Jun 30 23:36 
+hwu       console                   Mon Jun 30 22:53 - 23:36  (00:43)
+reboot    ~                         Mon Jun 30 22:52 
+shutdown  ~                         Mon Jun 30 22:19 
+hwu       ttys000                   Mon Jun 30 20:39 - 20:39  (00:00)
+hwu       ttys000                   Mon Jun 30 20:37 - 20:39  (00:01)
+hwu       console                   Mon Jun 30 19:55 - 22:19  (02:23)
+reboot    ~                         Mon Jun 30 19:54 
+shutdown  ~                         Mon Jun 30 17:52 
+hwu       console                   Mon Jun 30 12:20 - 17:52  (05:32)
+reboot    ~                         Mon Jun 30 12:19 
+shutdown  ~                         Mon Jun 30 11:43 
+hwu       console                   Mon Jun 30 07:56 - 11:43  (03:46)
+reboot    ~                         Mon Jun 30 07:55 
+hwu       console                   Sun Jun 29 23:50 - 07:49  (07:59)
+reboot    ~                         Sun Jun 29 23:49 
+shutdown  ~                         Sun Jun 29 23:20 
+hwu       console                   Sun Jun 29 23:18 - 23:20  (00:01)
+reboot    ~                         Sun Jun 29 23:17 
+shutdown  ~                         Sun Jun 29 22:33 
+hwu       console                   Sun Jun 29 15:33 - 22:33  (07:00)
+reboot    ~                         Sun Jun 29 15:32 
+shutdown  ~                         Sun Jun 29 10:52 
+hwu       console                   Fri Jun 27 18:02 - 10:52 (1+16:49)
+reboot    ~                         Fri Jun 27 18:01 
+shutdown  ~                         Fri Jun 27 17:34 
+hwu       console                   Fri Jun 27 08:56 - 17:34  (08:38)
+reboot    ~                         Fri Jun 27 08:54 
+shutdown  ~                         Thu Jun 26 23:22 
+hwu       console                   Thu Jun 26 21:25 - 23:22  (01:56)
+reboot    ~                         Thu Jun 26 21:23 
+shutdown  ~                         Thu Jun 26 21:22 
+root      console                   Thu Jun 26 21:19 - shutdown  (00:03)
+hwu       console                   Thu Jun 26 18:17 - 21:19  (03:01)
+reboot    ~                         Thu Jun 26 18:16 
+shutdown  ~                         Thu Jun 26 17:57 
+hwu       console                   Thu Jun 26 08:55 - 17:57  (09:02)
+reboot    ~                         Thu Jun 26 08:54 
+shutdown  ~                         Wed Jun 25 23:08 
+hwu       console                   Wed Jun 25 18:38 - 23:08  (04:30)
+reboot    ~                         Wed Jun 25 18:37 
+hwu       console                   Wed Jun 25 08:55 - crash  (09:42)
+reboot    ~                         Wed Jun 25 08:54 
+shutdown  ~                         Tue Jun 24 23:31 
+hwu       console                   Mon Jun 23 18:08 - 23:31 (1+05:22)
+reboot    ~                         Mon Jun 23 18:07 
+shutdown  ~                         Mon Jun 23 17:37 
+hwu       console                   Mon Jun 23 08:50 - 17:37  (08:46)
+reboot    ~                         Mon Jun 23 08:49 
+shutdown  ~                         Sun Jun 22 20:28 
+hwu       console                   Fri Jun 20 21:10 - 20:28 (1+23:18)
+reboot    ~                         Fri Jun 20 21:08 
+shutdown  ~                         Fri Jun 20 21:08 
+hwu       console                   Fri Jun 20 18:53 - 21:08  (02:14)
+reboot    ~                         Fri Jun 20 18:52 
+shutdown  ~                         Fri Jun 20 17:24 
+hwu       console                   Thu Jun 19 08:51 - 17:24 (1+08:32)
+reboot    ~                         Thu Jun 19 08:50 
+shutdown  ~                         Wed Jun 18 17:54 
+hwu       console                   Wed Jun 18 09:16 - 17:54  (08:37)
+reboot    ~                         Wed Jun 18 09:15 
+shutdown  ~                         Wed Jun 18 09:14 
+hwu       console                   Fri Jun 13 18:11 - 09:14 (4+15:03)
+reboot    ~                         Fri Jun 13 18:09 
+hwu       console                   Tue Jun  3 08:42 - crash (10+09:26)
+reboot    ~                         Tue Jun  3 08:41 
+shutdown  ~                         Mon Jun  2 21:58 
+hwu       console                   Mon Jun  2 08:51 - 21:58  (13:07)
+reboot    ~                         Mon Jun  2 08:50 
+shutdown  ~                         Sun Jun  1 18:15 
+hwu       ttys002                   Fri May 30 15:56 - 15:56  (00:00)
+hwu       console                   Wed May 28 18:52 - 18:15 (3+23:22)
+reboot    ~                         Wed May 28 18:51 
+shutdown  ~                         Wed May 28 17:25 
+hwu       console                   Wed May 28 08:38 - 17:25  (08:47)
+reboot    ~                         Wed May 28 08:36 
+shutdown  ~                         Wed May 28 00:17 
+hwu       console                   Tue May 27 20:22 - 00:17  (03:54)
+reboot    ~                         Tue May 27 20:21 
+shutdown  ~                         Tue May 27 18:59 
+hwu       console                   Tue May 27 08:49 - 18:59  (10:10)
+reboot    ~                         Tue May 27 08:47 
+shutdown  ~                         Mon May 26 19:05 
+hwu       console                   Mon May 26 13:25 - 19:05  (05:40)
+reboot    ~                         Mon May 26 13:23 
+shutdown  ~                         Sun May 25 18:20 
+hwu       console                   Sun May 25 15:17 - 18:20  (03:02)
+reboot    ~                         Sun May 25 15:16 
+shutdown  ~                         Sat May 24 18:34 
+hwu       console                   Fri May 23 18:13 - 18:34 (1+00:21)
+reboot    ~                         Fri May 23 18:11 
+shutdown  ~                         Fri May 23 17:36 
+hwu       console                   Thu May 22 08:51 - 17:36 (1+08:44)
+reboot    ~                         Thu May 22 08:50 
+shutdown  ~                         Thu May 22 00:35 
+hwu       console                   Mon May 19 08:22 - 00:35 (2+16:13)
+reboot    ~                         Mon May 19 08:20 
+shutdown  ~                         Sun May 18 19:20 
+hwu       console                   Sun May 18 15:19 - 19:20  (04:00)
+reboot    ~                         Sun May 18 15:18 
+shutdown  ~                         Sun May 18 14:44 
+hwu       console                   Sun May 18 10:19 - 14:44  (04:25)
+reboot    ~                         Sun May 18 10:17 
+hwu       console                   Thu May 15 08:53 - crash (3+01:24)
+reboot    ~                         Thu May 15 08:51 
+shutdown  ~                         Wed May 14 17:44 
+hwu       console                   Tue May 13 08:50 - 17:44 (1+08:54)
+reboot    ~                         Tue May 13 08:49 
+shutdown  ~                         Mon May 12 17:57 
+hwu       ttys002                   Mon May 12 13:19 - 13:20  (00:00)
+hwu       console                   Mon May 12 08:52 - 17:57  (09:05)
+reboot    ~                         Mon May 12 08:51 
+shutdown  ~                         Sun May 11 19:46 
+hwu       console                   Sun May 11 17:38 - 19:46  (02:07)
+reboot    ~                         Sun May 11 17:38 
+shutdown  ~                         Sun May 11 17:37 
+hwu       console                   Sun May 11 13:56 - 17:37  (03:41)
+reboot    ~                         Sun May 11 13:55 
+shutdown  ~                         Sat May 10 19:04 
+hwu       console                   Sat May 10 10:54 - 19:04  (08:09)
+reboot    ~                         Sat May 10 10:52 
+shutdown  ~                         Fri May  9 18:28 
+hwu       console                   Fri May  9 08:46 - 18:28  (09:41)
+reboot    ~                         Fri May  9 08:45 
+shutdown  ~                         Thu May  8 22:36 
+hwu       console                   Thu May  8 20:14 - 22:36  (02:22)
+reboot    ~                         Thu May  8 20:12 
+shutdown  ~                         Thu May  8 18:00 
+hwu       console                   Thu May  8 08:56 - 18:00  (09:04)
+reboot    ~                         Thu May  8 08:55 
+shutdown  ~                         Wed May  7 21:59 
+hwu       console                   Wed May  7 18:01 - 21:59  (03:57)
+reboot    ~                         Wed May  7 18:00 
+shutdown  ~                         Wed May  7 17:05 
+hwu       console                   Tue May  6 19:09 - 17:05  (21:55)
+reboot    ~                         Tue May  6 19:08 
+shutdown  ~                         Tue May  6 17:02 
+hwu       console                   Mon May  5 21:40 - 17:02  (19:21)
+reboot    ~                         Mon May  5 21:39 
+shutdown  ~                         Mon May  5 17:40 
+hwu       console                   Mon May  5 08:41 - 17:40  (08:58)
+reboot    ~                         Mon May  5 08:40 
+shutdown  ~                         Sun May  4 18:38 
+hwu       console                   Sun May  4 12:10 - 18:38  (06:27)
+reboot    ~                         Sun May  4 12:09 
+shutdown  ~                         Sat May  3 19:08 
+hwu       console                   Sat May  3 18:11 - 19:08  (00:57)
+reboot    ~                         Sat May  3 18:10 
+shutdown  ~                         Sat May  3 17:25 
+hwu       console                   Sat May  3 10:35 - 17:25  (06:49)
+reboot    ~                         Sat May  3 10:34 
+shutdown  ~                         Fri May  2 17:21 
+hwu       console                   Fri May  2 08:50 - 17:21  (08:31)
+reboot    ~                         Fri May  2 08:49 
+shutdown  ~                         Thu May  1 23:25 
+hwu       ttys001                   Thu May  1 23:13 - 23:24  (00:10)
+hwu       ttys003                   Thu May  1 09:47 - 09:47  (00:00)
+hwu       console                   Thu May  1 08:31 - 23:25  (14:54)
+reboot    ~                         Thu May  1 08:29 
+shutdown  ~                         Thu May  1 00:20 
+hwu       ttys001                   Wed Apr 30 21:59 - 00:20  (02:21)
+hwu       ttys001                   Wed Apr 30 21:57 - 21:57  (00:00)
+hwu       ttys001                   Wed Apr 30 21:56 - 21:57  (00:00)
+hwu       console                   Wed Apr 30 19:18 - 00:20  (05:02)
+reboot    ~                         Wed Apr 30 19:17 
+shutdown  ~                         Wed Apr 30 18:02 
+hwu       console                   Wed Apr 30 08:35 - 18:02  (09:27)
+reboot    ~                         Wed Apr 30 08:34 
+shutdown  ~                         Tue Apr 29 23:15 
+hwu       console                   Tue Apr 29 18:17 - 23:15  (04:57)
+reboot    ~                         Tue Apr 29 18:16 
+shutdown  ~                         Tue Apr 29 17:31 
+hwu       console                   Tue Apr 29 08:44 - 17:31  (08:47)
+reboot    ~                         Tue Apr 29 08:43 
+shutdown  ~                         Tue Apr 29 00:13 
+hwu       console                   Mon Apr 28 19:35 - 00:13  (04:37)
+reboot    ~                         Mon Apr 28 19:33 
+shutdown  ~                         Mon Apr 28 17:51 
+hwu       console                   Mon Apr 28 08:56 - 17:51  (08:54)
+reboot    ~                         Mon Apr 28 08:55 
+shutdown  ~                         Sun Apr 27 19:51 
+hwu       console                   Sun Apr 27 16:27 - 19:51  (03:23)
+reboot    ~                         Sun Apr 27 16:26 
+shutdown  ~                         Sat Apr 26 18:34 
+hwu       console                   Sat Apr 26 18:14 - 18:34  (00:20)
+reboot    ~                         Sat Apr 26 18:12 
+shutdown  ~                         Sat Apr 26 18:11 
+root      console                   Sat Apr 26 18:05 - shutdown  (00:06)
+hwu       console                   Sat Apr 26 15:05 - 18:04  (02:59)
+reboot    ~                         Sat Apr 26 15:04 
+shutdown  ~                         Sat Apr 26 14:14 
+hwu       console                   Fri Apr 25 19:12 - 14:14  (19:02)
+reboot    ~                         Fri Apr 25 19:09 
+shutdown  ~                         Fri Apr 25 18:24 
+hwu       console                   Fri Apr 25 11:57 - 18:24  (06:26)
+reboot    ~                         Fri Apr 25 11:56 
+hwu       console                   Fri Apr 25 08:28 - crash  (03:28)
+reboot    ~                         Fri Apr 25 08:27 
+shutdown  ~                         Fri Apr 25 00:35 
+hwu       console                   Thu Apr 24 20:16 - 00:35  (04:19)
+reboot    ~                         Thu Apr 24 20:14 
+shutdown  ~                         Thu Apr 24 17:56 
+hwu       console                   Thu Apr 24 08:54 - 17:56  (09:02)
+reboot    ~                         Thu Apr 24 08:53 
+shutdown  ~                         Thu Apr 24 00:49 
+hwu       console                   Wed Apr 23 18:49 - 00:49  (05:59)
+reboot    ~                         Wed Apr 23 18:48 
+shutdown  ~                         Wed Apr 23 18:08 
+hwu       console                   Wed Apr 23 08:51 - 18:08  (09:16)
+reboot    ~                         Wed Apr 23 08:50 
+shutdown  ~                         Wed Apr 23 08:11 
+hwu       console                   Mon Apr 21 08:55 - 08:11 (1+23:15)
+reboot    ~                         Mon Apr 21 08:54 
+shutdown  ~                         Sat Apr 19 17:42 
+hwu       console                   Thu Apr 17 19:36 - 17:42 (1+22:05)
+reboot    ~                         Thu Apr 17 19:35 
+shutdown  ~                         Thu Apr 17 17:23 
+hwu       console                   Wed Apr 16 08:30 - 17:23 (1+08:52)
+reboot    ~                         Wed Apr 16 08:28 
+shutdown  ~                         Tue Apr 15 17:34 
+hwu       console                   Tue Apr 15 09:17 - 17:34  (08:17)
+reboot    ~                         Tue Apr 15 09:16 
+shutdown  ~                         Tue Apr 15 08:59 
+hwu       console                   Mon Apr 14 18:41 - 08:59  (14:17)
+reboot    ~                         Mon Apr 14 18:40 
+shutdown  ~                         Mon Apr 14 17:59 
+hwu       console                   Fri Apr 11 18:37 - 17:59 (2+23:21)
+reboot    ~                         Fri Apr 11 18:36 
+shutdown  ~                         Fri Apr 11 16:23 
+hwu       console                   Thu Apr 10 19:01 - 16:23  (21:22)
+reboot    ~                         Thu Apr 10 19:00 
+shutdown  ~                         Thu Apr 10 17:47 
+hwu       console                   Thu Apr 10 16:41 - 17:47  (01:06)
+reboot    ~                         Thu Apr 10 16:40 
+shutdown  ~                         Thu Apr 10 16:39 
+hwu       console                   Thu Apr 10 08:47 - 16:39  (07:52)
+reboot    ~                         Thu Apr 10 08:46 
+shutdown  ~                         Wed Apr  9 18:43 
+hwu       console                   Wed Apr  9 08:45 - 18:43  (09:57)
+reboot    ~                         Wed Apr  9 08:45 
+shutdown  ~                         Tue Apr  8 18:56 
+hwu       console                   Tue Apr  8 08:44 - 18:56  (10:12)
+reboot    ~                         Tue Apr  8 08:43 
+shutdown  ~                         Mon Apr  7 17:33 
+hwu       console                   Mon Apr  7 09:19 - 17:33  (08:14)
+reboot    ~                         Mon Apr  7 09:18 
+shutdown  ~                         Mon Apr  7 08:58 
+hwu       console                   Sat Apr  5 10:28 - 08:58 (1+22:29)
+reboot    ~                         Sat Apr  5 10:27 
+shutdown  ~                         Fri Apr  4 17:17 
+hwu       console                   Fri Apr  4 08:55 - 17:17  (08:21)
+reboot    ~                         Fri Apr  4 08:54 
+shutdown  ~                         Thu Apr  3 17:31 
+hwu       console                   Thu Apr  3 08:55 - 17:31  (08:35)
+reboot    ~                         Thu Apr  3 08:54 
+shutdown  ~                         Wed Apr  2 17:29 
+hwu       console                   Wed Apr  2 08:51 - 17:29  (08:38)
+reboot    ~                         Wed Apr  2 08:49 
+shutdown  ~                         Tue Apr  1 17:39 
+hwu       console                   Tue Apr  1 08:51 - 17:39  (08:47)
+reboot    ~                         Tue Apr  1 08:50 
+shutdown  ~                         Tue Apr  1 08:48 
+hwu       console                   Sun Mar 30 15:00 - 08:48 (1+17:47)
+reboot    ~                         Sun Mar 30 15:00 
+shutdown  ~                         Sat Mar 29 17:47 
+hwu       console                   Mon Mar 24 21:11 - 17:47 (4+20:35)
+reboot    ~                         Mon Mar 24 21:10 
+shutdown  ~                         Mon Mar 24 21:10 
+hwu       console                   Sun Mar 23 20:19 - 21:10 (1+00:50)
+reboot    ~                         Sun Mar 23 20:18 
+shutdown  ~                         Sun Mar 23 20:18 
+hwu       console                   Fri Mar 21 09:29 - 20:18 (2+10:49)
+reboot    ~                         Fri Mar 21 09:27 
+hwu       console                   Tue Mar 18 23:06 - crash (2+10:21)
+reboot    ~                         Tue Mar 18 23:05 
+shutdown  ~                         Tue Mar 18 23:04 
+hwu       console                   Tue Mar 18 19:59 - 23:04  (03:05)
+reboot    ~                         Tue Mar 18 19:58 
+shutdown  ~                         Tue Mar 18 17:50 
+hwu       console                   Fri Mar 14 18:51 - 17:50 (3+22:58)
+reboot    ~                         Fri Mar 14 18:51 
+shutdown  ~                         Fri Mar 14 18:50 
+hwu       console                   Fri Mar 14 18:42 - shutdown  (00:07)
+reboot    ~                         Fri Mar 14 18:42 
+shutdown  ~                         Fri Mar 14 18:23 
+hwu       console                   Mon Mar 10 18:36 - 18:23 (3+23:46)
+reboot    ~                         Mon Mar 10 18:35 
+shutdown  ~                         Mon Mar 10 18:17 
+hwu       console                   Mon Mar 10 08:52 - 18:17  (09:25)
+reboot    ~                         Mon Mar 10 08:51 
+shutdown  ~                         Mon Mar 10 00:10 
+root      console                   Mon Mar 10 00:06 - shutdown  (00:04)
+hwu       console                   Sun Feb 23 13:38 - 00:06 (14+09:27)
+reboot    ~                         Sun Feb 23 13:37 
+shutdown  ~                         Sun Feb 23 12:10 
+hwu       console                   Wed Feb 19 19:53 - 12:10 (3+16:17)
+reboot    ~                         Wed Feb 19 19:52 
+shutdown  ~                         Wed Feb 19 19:51 
+hwu       console                   Wed Feb 19 18:07 - 19:51  (01:44)
+reboot    ~                         Wed Feb 19 18:06 
+shutdown  ~                         Wed Feb 19 17:31 
+hwu       console                   Tue Feb 18 19:08 - 17:31  (22:22)
+reboot    ~                         Tue Feb 18 19:07 
+shutdown  ~                         Tue Feb 18 18:22 
+hwu       console                   Sun Feb 16 18:22 - 18:22 (2+00:00)
+reboot    ~                         Sun Feb 16 18:21 
+shutdown  ~                         Sun Feb 16 18:02 
+hwu       console                   Fri Feb 14 18:40 - 18:02 (1+23:21)
+reboot    ~                         Fri Feb 14 18:39 
+shutdown  ~                         Fri Feb 14 17:31 
+hwu       console                   Thu Feb 13 19:01 - 17:31  (22:30)
+reboot    ~                         Thu Feb 13 19:00 
+shutdown  ~                         Thu Feb 13 18:23 
+hwu       console                   Wed Feb 12 18:33 - 18:23  (23:50)
+reboot    ~                         Wed Feb 12 18:32 
+shutdown  ~                         Wed Feb 12 18:09 
+hwu       console                   Wed Feb 12 12:13 - 18:09  (05:56)
+reboot    ~                         Wed Feb 12 12:12 
+shutdown  ~                         Wed Feb 12 11:37 
+hwu       console                   Tue Feb 11 18:32 - shutdown  (17:05)
+reboot    ~                         Tue Feb 11 18:31 
+shutdown  ~                         Tue Feb 11 18:14 
+hwu       console                   Sun Feb  9 18:46 - 18:14 (1+23:27)
+reboot    ~                         Sun Feb  9 18:45 
+shutdown  ~                         Sun Feb  9 17:15 
+hwu       console                   Sun Feb  9 11:25 - 17:15  (05:50)
+reboot    ~                         Sun Feb  9 11:24 
+hwu       console                   Fri Feb  7 18:28 - crash (1+16:55)
+reboot    ~                         Fri Feb  7 18:27 
+shutdown  ~                         Fri Feb  7 18:09 
+hwu       console                   Fri Feb  7 10:19 - 18:09  (07:49)
+reboot    ~                         Fri Feb  7 10:18 
+hwu       console                   Thu Feb  6 18:35 - crash  (15:43)
+reboot    ~                         Thu Feb  6 18:34 
+shutdown  ~                         Thu Feb  6 17:43 
+hwu       console                   Tue Feb  4 17:47 - 17:43 (1+23:55)
+reboot    ~                         Tue Feb  4 17:46 
+shutdown  ~                         Tue Feb  4 17:23 
+hwu       console                   Thu Jan 30 17:25 - 17:23 (4+23:57)
+reboot    ~                         Thu Jan 30 17:24 
+shutdown  ~                         Thu Jan 30 17:06 
+hwu       ttys002  192.168.0.174    Thu Jan 30 12:34 - 17:06  (04:31)
+hwu       console                   Wed Jan 29 19:41 - 17:06  (21:25)
+reboot    ~                         Wed Jan 29 19:40 
+shutdown  ~                         Wed Jan 29 19:40 
+hwu       console                   Wed Jan 29 17:49 - 19:40  (01:50)
+reboot    ~                         Wed Jan 29 17:48 
+shutdown  ~                         Wed Jan 29 17:28 
+hwu       console                   Tue Jan 28 17:42 - 17:28  (23:45)
+reboot    ~                         Tue Jan 28 17:41 
+shutdown  ~                         Tue Jan 28 17:23 
+hwu       console                   Tue Jan 28 08:16 - 17:23  (09:06)
+reboot    ~                         Tue Jan 28 08:15 
+shutdown  ~                         Tue Jan 28 00:13 
+hwu       console                   Mon Jan 27 18:54 - 00:13  (05:18)
+reboot    ~                         Mon Jan 27 18:54 
+shutdown  ~                         Mon Jan 27 18:37 
+hwu       console                   Mon Jan 27 11:51 - 18:37  (06:46)
+reboot    ~                         Mon Jan 27 11:50 
+shutdown  ~                         Mon Jan 27 11:47 
+hwu       console                   Sun Jan 26 16:27 - 11:47  (19:20)
+reboot    ~                         Sun Jan 26 16:26 
+shutdown  ~                         Sun Jan 26 15:56 
+hwu       ttys001  192.168.0.144    Sat Jan 25 10:06 - 11:00  (00:54)
+hwu       console                   Sat Jan 25 09:50 - 15:56 (1+06:05)
+reboot    ~                         Sat Jan 25 09:49 
+shutdown  ~                         Fri Jan 24 17:36 
+hwu       console                   Wed Jan 22 19:17 - 17:36 (1+22:19)
+reboot    ~                         Wed Jan 22 19:16 
+shutdown  ~                         Wed Jan 22 17:20 
+hwu       console                   Tue Jan 21 17:48 - 17:20  (23:32)
+reboot    ~                         Tue Jan 21 17:46 
+shutdown  ~                         Tue Jan 21 17:27 
+hwu       console                   Tue Jan 21 11:27 - 17:27  (05:59)
+reboot    ~                         Tue Jan 21 11:26 
+hwu       console                   Mon Jan 20 12:04 - crash  (23:22)
+reboot    ~                         Mon Jan 20 12:03 
+shutdown  ~                         Mon Jan 20 11:32 
+hwu       console                   Fri Jan 17 18:44 - 11:32 (2+16:47)
+reboot    ~                         Fri Jan 17 18:43 
+shutdown  ~                         Fri Jan 17 17:53 
+hwu       console                   Thu Jan 16 18:11 - 17:53  (23:42)
+reboot    ~                         Thu Jan 16 18:10 
+shutdown  ~                         Thu Jan 16 17:50 
+hwu       console                   Wed Jan 15 19:03 - 17:50  (22:46)
+reboot    ~                         Wed Jan 15 19:02 
+shutdown  ~                         Wed Jan 15 17:26 
+hwu       console                   Wed Jan 15 08:36 - 17:26  (08:49)
+reboot    ~                         Wed Jan 15 08:35 
+shutdown  ~                         Tue Jan 14 22:20 
+hwu       console                   Tue Jan 14 17:49 - 22:20  (04:30)
+reboot    ~                         Tue Jan 14 17:48 
+shutdown  ~                         Tue Jan 14 17:27 
+hwu       console                   Mon Jan 13 20:10 - 17:27  (21:17)
+reboot    ~                         Mon Jan 13 20:09 
+shutdown  ~                         Mon Jan 13 17:42 
+hwu       console                   Mon Jan 13 16:10 - 17:42  (01:31)
+reboot    ~                         Mon Jan 13 16:09 
+shutdown  ~                         Mon Jan 13 16:08 
+hwu       console                   Mon Jan 13 14:58 - 16:08  (01:09)
+reboot    ~                         Mon Jan 13 14:57 
+shutdown  ~                         Mon Jan 13 14:56 
+root      console                   Mon Jan 13 14:54 - shutdown  (00:01)
+hwu       console                   Sat Jan 11 11:41 - 14:54 (2+03:12)
+reboot    ~                         Sat Jan 11 11:40 
+hwu       console                   Fri Jan 10 20:33 - crash  (15:07)
+reboot    ~                         Fri Jan 10 20:32 
+hwu       console                   Thu Jan  9 08:05 - crash (1+12:26)
+reboot    ~                         Thu Jan  9 08:04 
+shutdown  ~                         Thu Jan  9 08:04 
+hwu       console                   Thu Dec 26 08:46 - 08:04 (13+23:17)
+reboot    ~                         Thu Dec 26 08:45 
+hwu       ttys005                   Wed Dec 18 16:49 - 17:33  (00:43)
+hwu       ttys003                   Wed Dec 18 09:31 - 09:42  (00:10)
+hwu       console                   Tue Dec 17 21:31 - crash (8+11:13)
+reboot    ~                         Tue Dec 17 21:30 
+shutdown  ~                         Tue Dec 17 21:23 
+hwu       console                   Fri Dec 13 09:01 - 21:23 (4+12:22)
+reboot    ~                         Fri Dec 13 09:00 
+shutdown  ~                         Fri Dec 13 09:00 
+hwu       ttys001                   Tue Dec 10 19:34 - 19:38  (00:03)
+hwu       ttys001                   Tue Dec 10 19:34 - 19:34  (00:00)
+hwu       console                   Fri Dec  6 10:04 - 09:00 (6+22:55)
+reboot    ~                         Fri Dec  6 10:04 
+shutdown  ~                         Fri Dec  6 10:04 
+hwu       console                   Fri Dec  6 10:03 - 10:04  (00:00)
+reboot    ~                         Fri Dec  6 10:02 
+shutdown  ~                         Fri Dec  6 10:02 
+hwu       console                   Thu Nov 28 14:52 - 10:02 (7+19:09)
+reboot    ~                         Thu Nov 28 14:51 
+shutdown  ~                         Thu Nov 28 14:51 
+hwu       console                   Tue Nov 26 11:08 - 14:51 (2+03:43)
+reboot    ~                         Tue Nov 26 11:07 
+hwu       console                   Thu Nov 21 17:22 - crash (4+17:45)
+reboot    ~                         Thu Nov 21 17:21 
+shutdown  ~                         Thu Nov 21 17:21 
+hwu       console                   Thu Nov 21 17:18 - 17:21  (00:02)
+reboot    ~                         Thu Nov 21 17:17 
+hwu       console                   Sat Nov 16 11:37 - crash (5+05:39)
+reboot    ~                         Sat Nov 16 11:37 
+hwu       ttys001                   Sat Nov 16 11:27 - 11:27  (00:00)
+hwu       ttys002                   Sat Nov 16 11:27 - 11:27  (00:00)
+hwu       console                   Fri Nov 15 18:22 - crash  (17:14)
+reboot    ~                         Fri Nov 15 18:21 
+shutdown  ~                         Fri Nov 15 17:23 
+hwu       console                   Fri Nov  8 18:09 - shutdown (6+23:13)
+reboot    ~                         Fri Nov  8 18:08 
+shutdown  ~                         Fri Nov  8 17:22 
+hwu       ttys000                   Wed Nov  6 23:03 - 23:03  (00:00)
+hwu       ttys000                   Wed Nov  6 23:03 - 23:03  (00:00)
+hwu       ttys000                   Wed Nov  6 23:03 - 23:03  (00:00)
+hwu       console                   Wed Nov  6 18:21 - shutdown (1+23:01)
+reboot    ~                         Wed Nov  6 18:20 
+shutdown  ~                         Wed Nov  6 17:44 
+hwu       console                   Tue Nov  5 19:06 - shutdown  (22:38)
+reboot    ~                         Tue Nov  5 19:05 
+shutdown  ~                         Tue Nov  5 17:47 
+hwu       console                   Tue Nov  5 17:47 - 17:47  (00:00)
+reboot    ~                         Tue Nov  5 17:46 
+shutdown  ~                         Tue Nov  5 17:46 
+hwu       console                   Tue Nov  5 08:12 - shutdown  (09:33)
+reboot    ~                         Tue Nov  5 08:12 
+shutdown  ~                         Mon Nov  4 22:27 
+hwu       console                   Mon Nov  4 21:43 - shutdown  (00:43)
+reboot    ~                         Mon Nov  4 21:42 
+hwu       console                   Mon Nov  4 18:32 - crash  (03:09)
+reboot    ~                         Mon Nov  4 18:31 
+shutdown  ~                         Mon Nov  4 17:32 
+hwu       console                   Mon Nov  4 07:52 - 17:32  (09:39)
+reboot    ~                         Mon Nov  4 07:51 
+hwu       console                   Sun Nov  3 18:52 - crash  (12:59)
+reboot    ~                         Sun Nov  3 18:51 
+shutdown  ~                         Sun Nov  3 17:46 
+hwu       console                   Sun Nov  3 10:54 - 17:46  (06:52)
+reboot    ~                         Sun Nov  3 10:53 
+hwu       console                   Sat Nov  2 18:28 - crash  (17:24)
+reboot    ~                         Sat Nov  2 18:27 
+shutdown  ~                         Sat Nov  2 17:39 
+hwu       console                   Sat Nov  2 10:07 - 17:39  (07:31)
+reboot    ~                         Sat Nov  2 10:06 
+shutdown  ~                         Sat Nov  2 09:26 
+hwu       console                   Fri Nov  1 08:28 - 09:26 (1+00:57)
+reboot    ~                         Fri Nov  1 08:27 
+hwu       console                   Thu Oct 31 18:59 - crash  (13:28)
+reboot    ~                         Thu Oct 31 18:58 
+shutdown  ~                         Thu Oct 31 18:06 
+hwu       console                   Thu Oct 31 08:10 - 18:06  (09:55)
+reboot    ~                         Thu Oct 31 08:09 
+shutdown  ~                         Thu Oct 31 08:09 
+hwu       console                   Thu Oct 31 08:04 - 08:09  (00:05)
+reboot    ~                         Thu Oct 31 08:03 
+shutdown  ~                         Thu Oct 31 07:27 
+hwu       ttys000                   Wed Oct 30 18:38 - 21:51  (03:13)
+hwu       console                   Wed Oct 30 18:37 - 07:27  (12:49)
+reboot    ~                         Wed Oct 30 18:36 
+shutdown  ~                         Wed Oct 30 18:00 
+hwu       ttys003                   Wed Oct 30 08:38 - 18:00  (09:22)
+hwu       console                   Tue Oct 29 07:55 - 18:00 (1+10:04)
+reboot    ~                         Tue Oct 29 07:54 
+shutdown  ~                         Mon Oct 28 23:00 
+hwu       console                   Mon Oct 28 19:29 - 23:00  (03:30)
+reboot    ~                         Mon Oct 28 19:29 
+shutdown  ~                         Mon Oct 28 17:43 
+hwu       console                   Mon Oct 28 08:21 - 17:43  (09:21)
+reboot    ~                         Mon Oct 28 08:20 
+shutdown  ~                         Mon Oct 28 08:20 
+hwu       console                   Sat Oct 26 14:03 - 08:20 (1+18:16)
+reboot    ~                         Sat Oct 26 14:01 
+
+wtmp begins Sat Oct 26 14:01 
